@@ -1,6 +1,6 @@
 # Text-to-Speech-Converter-HTML-CSS-Js-
 
-This repository contains the implementation of a Text to Speech Converter web application. The application allows users to convert written text into spoken words using the Web Speech API. It also includes functionality for file upload, enabling users to load text from .txt files directly into the text area.
+This repository contains the implementation of a Text to Speech Converter web application. The application allows users to convert written text into spoken words. It also includes functionality for file upload, enabling users to load text from .txt files directly into the text area.
 
 # Features
 
